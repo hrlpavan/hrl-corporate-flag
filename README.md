@@ -7,18 +7,20 @@
 [![GitLab Repository](https://img.shields.io/badge/GitLab-Repository-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/hrlpavan/hrl-corporate-flag)
 [![Ecosystem](https://img.shields.io/badge/Ecosystem-HRL%20International%20Pvt.%20Ltd.-orange?style=for-the-badge)](https://github.com/hrlpavan/hrl-international-website-)
 [![Vector Format](https://img.shields.io/badge/Format-Scalable%20Vector%20Graphics%20(.SVG)-brightgreen?style=for-the-badge&logo=svg)](flag.svg)
+[![RAW Master PNG](https://img.shields.io/badge/RAW%20Master%20PNG-10800x7200%20(77.7%20MP)-BF1F1F?style=for-the-badge)](HRL%20INTERNATIONAL%20PRIVATE%20LIMITED%20CORE%20COUNTRY%20FLAG.png)
 [![Standard Aspect Ratio](https://img.shields.io/badge/Ratio-3%3A2%20(1024x682)-blue?style=for-the-badge)](flag.svg)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 
 <br />
 
 <p align="center">
-  <img src="flag.svg" alt="HRL International Official Corporate Flag" width="750" style="border-radius: 8px; box-shadow: 0 10px 30px rgba(0,0,0,0.5);" />
+  <img src="https://raw.githubusercontent.com/hrlpavan/hrl-corporate-flag/main/HRL%20INTERNATIONAL%20PRIVATE%20LIMITED%20CORE%20COUNTRY%20FLAG.png" alt="HRL International Official Corporate Flag RAW Master" width="750" style="border-radius: 8px; box-shadow: 0 10px 30px rgba(0,0,0,0.5);" />
 </p>
 
 <p align="center">
   <b>The Official Sovereign Flag and Heraldic Vector Identity System for HRL International Private Limited.<br />
-  Engineered with mathematical precision, Nordic Cross geometry, quad-stripe canton module, official brand insignia, dual heraldic eagles, and an 8-pointed compass star.</b>
+  Engineered with mathematical precision, Nordic Cross geometry, quad-stripe canton module, official brand insignia, dual heraldic eagles, and an 8-pointed compass star.<br />
+  Available in native vector SVG and RAW Master Ultra-HD PNG (10,800 × 7,200 px, 77.7 MP).</b>
 </p>
 
 </div>
@@ -130,9 +132,11 @@ flagSvg.style.setProperty('--field-color', '#0D1B2A'); // Midnight Navy
 ---
 
 ## 📁 Repository & File Inventory
-
+ 
+- [`HRL INTERNATIONAL PRIVATE LIMITED CORE COUNTRY FLAG.png`](https://raw.githubusercontent.com/hrlpavan/hrl-corporate-flag/main/HRL%20INTERNATIONAL%20PRIVATE%20LIMITED%20CORE%20COUNTRY%20FLAG.png): Official RAW Master Ultra-HD PNG ($10,800 \times 7,200$ px, 77.7 MP, RGBA lossless).
+- [`flag.png`](https://raw.githubusercontent.com/hrlpavan/hrl-corporate-flag/main/flag.png): Standard web alias of the official master PNG.
 - [`flag.svg`](flag.svg): Production-grade master vector flag with inline CSS variable support.
-- [`index.html`](index.html): Interactive browser preview with real-time color switcher and SVG export.
+- [`index.html`](index.html): Interactive browser preview with real-time color switcher, SVG export, and RAW UHD PNG download.
 - [`DESIGN_SPECIFICATION.md`](DESIGN_SPECIFICATION.md): Mathematical geometry, coordinates, and rendering standards.
 - [`LICENSE`](LICENSE): Official MIT Open Source License.
 
