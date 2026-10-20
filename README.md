@@ -1,4 +1,4 @@
-# 🚩 HRL Corporate Flag: The Twin-Headed Shadow Wyvern
+# 🚩 HRL International Official Corporate Flag
 
 <div align="center">
 
@@ -7,11 +7,18 @@
 [![GitLab Repository](https://img.shields.io/badge/GitLab-Repository-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/hrlpavan/hrl-corporate-flag)
 [![Ecosystem](https://img.shields.io/badge/Ecosystem-HRL%20International%20Pvt.%20Ltd.-orange?style=for-the-badge)](https://github.com/hrlpavan/hrl-international-website-)
 [![Vector Format](https://img.shields.io/badge/Format-Scalable%20Vector%20Graphics%20(.SVG)-brightgreen?style=for-the-badge&logo=svg)](flag.svg)
-[![Color Constraint](https://img.shields.io/badge/Emblem%20Color-Pure%20Black%20%23000000-black?style=for-the-badge)](flag.svg)
+[![Standard Aspect Ratio](https://img.shields.io/badge/Ratio-3%3A2%20(1024x682)-blue?style=for-the-badge)](flag.svg)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 
+<br />
+
 <p align="center">
-  <b>The official corporate flag and heraldic vector identity system for HRL International Private Limited. Engineered with pure black compound vector paths, true negative-space transparency, and an instantly replaceable background architecture.</b>
+  <img src="flag.svg" alt="HRL International Official Corporate Flag" width="750" style="border-radius: 8px; box-shadow: 0 10px 30px rgba(0,0,0,0.5);" />
+</p>
+
+<p align="center">
+  <b>The Official Sovereign Flag and Heraldic Vector Identity System for HRL International Private Limited.<br />
+  Engineered with mathematical precision, Nordic Cross geometry, quad-stripe canton module, official brand insignia, dual heraldic eagles, and an 8-pointed compass star.</b>
 </p>
 
 </div>
@@ -20,147 +27,118 @@
 
 ## 📌 Table of Contents
 - [Executive Overview](#-executive-overview)
-- [Design Manifesto & Heraldic Anatomy](#-design-manifesto--heraldic-anatomy)
-- [Technical Specifications & Architecture](#-technical-specifications--architecture)
+- [Design Architecture & Geometry](#-design-architecture--geometry)
+- [Symbolic Elements & Heraldic Anatomy](#-symbolic-elements--heraldic-anatomy)
+- [Color Palette & Specifications](#-color-palette--specifications)
 - [Dynamic Background Customization](#-dynamic-background-customization)
-- [Repository File Inventory](#-repository-file-inventory)
-- [Interactive Flag Previewer](#-interactive-flag-previewer)
+- [Repository & File Inventory](#-repository--file-inventory)
+- [Interactive Showcase](#-interactive-showcase)
 - [Statutory Trademark & Brand Notice](#-statutory-trademark--brand-notice)
-- [License](#-license)
 
 ---
 
 ## 🌟 Executive Overview
 
-The **HRL Corporate Flag** embodies the engineering philosophy, uncompromising authority, and technological sovereignty of **HRL International Private Limited**. 
+The **Official HRL Corporate Flag** represents the foundational sovereign identity, technical discipline, and global vision of **HRL International Private Limited**.
 
-Inspired by the classical heraldic bilateral symmetry of historical flags (notably the iconic double-headed eagle motif), this mark synthesizes traditional statecraft heraldry with dark, aggressive, deep-tech mythology: the **Twin-Headed Abyssal Wyvern / Demon Drake**.
-
-Every contour, curve, and cutout is mathematically balanced across the vertical axis of symmetry, calibrated for immediate readability across all scales—from physical silk flag deployments to 4K displays and micro-favicon resolutions.
+Constructed upon a strict 83-pixel modular unit grid, the flag synthesizes:
+1. **The Nordic Cross**: Unbroken white cross symbolizing stability, structure, and international enterprise.
+2. **Canton Accent Stripes**: 4 vertical black stripes representing the core technological pillars.
+3. **Official HRL Brand Mark**: Integrated directly on the white horizontal crossbar (Crimson 'H' and Black 'RL').
+4. **The Lower Hoist Triad**: Twin heraldic double-headed eagles flanking an 8-pointed crimson compass star.
 
 ---
 
-## 🐉 Design Manifesto & Heraldic Anatomy
+## 📐 Design Architecture & Geometry
+
+The flag is drafted on a standard **3:2 proportion** with a canvas grid of **1024 × 682 px**:
 
 ```
-                   ▲ Horn Spires (Barbed Ridges)
-             \   /   \   /
-         ◄──(Head)   (Head)──► Twin Outward Roaring Maws (Razor Fangs & Stinger Tongue)
-            /  |       |  \
-          /   /         \   \
-        /    /    (Chest)  \   \  ◄── 9 Upward-Sweeping Razor Scythe Primary Blades
-      /     /    [ Ribs ]   \    \
-     │     │     [ Slits ]   │    │ ◄── Negative Space Skeletal Rib Slits
-     │     │                 │    │
-            \   ( Pelvis )  /
-           / \             / \
-      ◄──(Claw)           (Claw)──► 4 Outstretched Sickle Talons & Dewclaws
-               \  [Tail] /
-                \ [Spines]/
-                 ▼ [Spade] ◄── Barbed Devil's Spearhead
++----------------------------------------------------------------------------------+
+| (0,0)                                                                            |
+| Red Hoist     | White Vertical | Black Stripes |           Solid Crimson         |
+| Canton        | Cross (w=83)   | (4x stripes)  |           Fly Field             |
+| (w=85, h=297) | (x: 85..168)   | (x: 168..240) |           (x: 240..1024)        |
++---------------+----------------+---------------+---------------------------------+
+| [  H  ]       | [ R   L ]      |               White Horizontal Cross (h=83)     |
+| (y: 297..380) | (y: 297..380)  |               (y: 297..380, w=1024)             |
++---------------+----------------+---------------+---------------------------------+
+| Eagle 1       | 8-Pointed Star | Eagle 2       |           Solid Crimson         |
+| (x: 6..77)    | (x: 86..165)   | (x: 177..247) |           Lower Fly Field       |
+| Black Heraldic| Crimson Red    | Black Heraldic|                                 |
++----------------------------------------------------------------------------------+
 ```
 
-1. **Twin Menacing Draconic Heads**:
-   - Outward-facing predatory profiles with sweeping curved ram/wyvern horns, supraorbital brow spires, and dorsal nape armor spines.
-   - Open roaring maws exposing interlocking razor fangs and a bifurcated serpent tongue tipped with an upward venomous barb.
-   - Sinister predatory slit eyes cut directly through the silhouette so they glow with the chosen background color.
-2. **The Crown of Scythe-Blades (Wings)**:
-   - 9 upward-curving razor primary blades per wing, echoing the rhythm of heraldic eagle wings while delivering a draconic silhouette.
-   - Carpal joint thumb spurs and aerodynamic patagium slots providing structural depth.
-3. **Skeletal Armored Torso**:
-   - 5 anatomical negative-space rib slashes radiating across the breastplate, allowing the background field to radiate through the torso.
-4. **Predatory Sickle Talons**:
-   - Muscular dragon haunches extending outward into 4 razor sickle claws with pronounced knuckles and hooked rear dewclaws.
-5. **Tiered Spined Tail**:
-   - Descending central column flanked by 3 tiers of scythe fins, terminating in a lethal barbed devil's spearhead spade.
+### Modular Proportions:
+- **Modular Unit**: `83px`
+- **Vertical Cross Stripe**: `x = 85` to `168` (width: `83px`, height: `682px`)
+- **Horizontal Cross Stripe**: `y = 297` to `380` (height: `83px`, width: `1024px`)
+- **Upper Canton Black Stripes**: 4 vertical stripes at `x = 168` (w=10), `x = 190` (w=9), `x = 210` (w=10), `x = 232` (w=8)
+- **Lower Hoist Triad**:
+  - Left Canton (Red Field): Double-headed eagle `(x: 6..77, y: 386..467)`
+  - Center Cross (White Stripe): 8-pointed star `(x: 86..165, y: 384..472)`
+  - Right Canton (Red Field): Twin double-headed eagle `(x: 177..247, y: 384..464)`
 
 ---
 
-## 📐 Technical Specifications & Architecture
+## 🦅 Symbolic Elements & Heraldic Anatomy
 
-| Parameter | Specification | Details |
-| :--- | :--- | :--- |
-| **Canvas Dimensions** | `1400 × 1000 px` | Standard international flag aspect ratio (7:5 / 1.4:1). |
-| **Primary File Format** | `.svg` (Scalable Vector Graphics) | 100% loss-free vector, infinite resolution scaling. |
-| **Emblem Color Constraint** | `#000000` (Pure Solid Black) | Strictly black silhouette as mandated by design specifications. |
-| **Cutout Methodology** | `fill-rule="evenodd"` | Native compound vector path. Eliminates clipping mask errors across vector engines. |
-| **Horizontal Alignment** | Left: `255.71 px` \| Right: `255.73 px` | Symmetrical to within 0.02 px. |
-| **Vertical Alignment** | Top: `81.40 px` \| Bottom: `81.57 px` | Mathematically centered with balanced breathing margins. |
-| **Vector Weight** | Scaled at `0.72` | Perfectly balanced visual mass relative to field canvas. |
+1. **Twin Heraldic Double-Headed Eagles**:
+   - Flanking the lower hoist canton in pure solid black (`#000000`).
+   - Represents vigilance, sovereignty, looking simultaneously to past foundations and future technological frontiers.
+2. **8-Pointed Compass Star**:
+   - Crimson red (`#BF1F1F`) positioned at the intersection of the lower vertical white bar.
+   - 4 primary cardinal points (radius 44px) and 4 secondary diagonal points (radius 22.5px), symbolizing global navigation and omnipresence.
+3. **Official HRL Brand Insignia**:
+   - Situated across the horizontal white crossbar.
+   - Left: Crimson red serif `'H'` (`#BF1F1F`).
+   - Right: Black high-contrast serif `'R'` and flowing calligraphic script `'L'` (`#000000`).
 
 ---
 
-## 🎨 Dynamic Background Customization
+## 🎨 Color Palette & Specifications
 
-The flag includes a dedicated background layer (`#flag-background`) engineered for instant recoloring via CSS, SVG attributes, or vector editing tools:
+| Element | Hex Code | RGB | Role |
+| :--- | :--- | :--- | :--- |
+| **Field Background** | `#BF1F1F` | `rgb(191, 31, 31)` | Sovereign Crimson Red field |
+| **Cross Bars** | `#FFFFFF` | `rgb(255, 255, 255)` | Pure White Nordic Cross |
+| **Canton Stripes** | `#000000` | `rgb(0, 0, 0)` | Hoist accent stripes |
+| **Heraldic Eagles** | `#000000` | `rgb(0, 0, 0)` | Pure black vector emblems |
+| **Compass Star** | `#BF1F1F` | `rgb(191, 31, 31)` | Crimson red starburst on white bar |
+| **Brand 'H'** | `#BF1F1F` | `rgb(191, 31, 31)` | Crimson red corporate initial |
+| **Brand 'RL'** | `#000000` | `rgb(0, 0, 0)` | Pure black serif & calligraphic mark |
 
-### Method 1: CSS Variable
-In the `<style>` block of [`flag.svg`](flag.svg), modify `--bg-color`:
+---
+
+## 🛠️ Dynamic Background Customization
+
+The background field supports dynamic, instant recoloring via CSS custom variables or direct SVG manipulation:
+
 ```css
-:root {
-  --bg-color: #dc143c; /* HRL Crimson Red (Default) */
+/* Change background field via CSS variables */
+svg {
+  --field-color: #111111; /* Switch to Obsidian Black */
 }
 ```
 
-### Method 2: Element Fill Attribute
-Directly edit the `<rect>` tag on line 57 of [`flag.svg`](flag.svg):
-```xml
-<rect id="flag-background" class="flag-background" width="1400" height="1000" fill="#dc143c" />
-```
-
-### Brand Color Swatches
-| Palette Name | Hex Code | Visual Application |
-| :--- | :--- | :--- |
-| **HRL Crimson** | `#dc143c` | Official corporate flag field (Inspired by the reference design) |
-| **Stark White** | `#ffffff` | High-contrast documentation, print letterheads, and formal stationery |
-| **Midnight Navy** | `#0f172a` | Executive presentations, tech conferences, and evening banquets |
-| **Imperial Gold** | `#f59e0b` | Ceremonial honors, legal patents, and executive tier milestones |
-| **Toxic Emerald** | `#059669` | AI runtime releases, performance benchmarks, and developer tooling |
-| **Charcoal Stealth** | `#1f2937` | Hardware chassis badges, dark mode applications, and studio banners |
-| **Transparent** | `transparent` | Watermarks, video overlays, embroidery, and apparel screen-printing |
-
----
-
-## 📂 Repository File Inventory
-
-```
-hrl-corporate-flag/
-├── flag.svg                 # Production-ready master vector flag (.SVG)
-├── index.html               # Interactive browser previewer with instant color swatches
-├── generate_flag.py         # Parametric Python generator with precision Bézier curves
-├── DESIGN_SPECIFICATION.md  # Formal heraldic specifications and vector geometry audit
-├── LICENSE                  # MIT Open Source License (HRL Brand Asset)
-└── README.md                # Master architectural documentation and usage guidelines
+Or via JavaScript in web applications:
+```javascript
+const flagSvg = document.querySelector('svg');
+flagSvg.style.setProperty('--field-color', '#0D1B2A'); // Midnight Navy
 ```
 
 ---
 
-## 🖥️ Interactive Flag Previewer
+## 📁 Repository & File Inventory
 
-An interactive HTML5 preview suite is included in [`index.html`](index.html). To view locally:
-```bash
-python3 -m http.server 8085
-```
-Open **`http://localhost:8085`** in any web browser to:
-- Test real-time background color swaps with one click.
-- Experiment with custom RGB/hex colors using the color picker.
-- Copy raw SVG markup to your clipboard.
-- Download the production `.svg` directly.
+- [`flag.svg`](flag.svg): Production-grade master vector flag with inline CSS variable support.
+- [`index.html`](index.html): Interactive browser preview with real-time color switcher and SVG export.
+- [`DESIGN_SPECIFICATION.md`](DESIGN_SPECIFICATION.md): Mathematical geometry, coordinates, and rendering standards.
+- [`LICENSE`](LICENSE): Official MIT Open Source License.
 
 ---
 
-## ⚖️ Statutory Trademark & Brand Notice
+## 🏛️ Statutory Trademark & Brand Notice
 
-`HRL™`, `HRL INTERNATIONAL™`, the **Twin-Headed Shadow Wyvern Emblem**, and all associated corporate visual assets are proprietary trademarks of **HRL International Private Limited**. Unauthorized reproduction for deceptive commercial use or counterfeit software distribution is strictly prohibited under international IP treaties and the Trade Marks Act, 1999.
-
----
-
-## 📜 License
-
-This project and its vector assets are licensed under the [MIT License](LICENSE).
-
-<div align="center">
-  <b>HRL INTERNATIONAL PRIVATE LIMITED</b><br>
-  <i>"We Can Do Everything Related To Software Sector Without Any Excuses!"</i><br>
-  Mangaluru, Karnataka, India
-</div>
+© 2026 HRL International Private Limited. Chief Architect: Pavan Kumar Sadashiv.  
+All brand insignias, flag designs, and visual identity systems are proprietary assets protected under applicable statutory intellectual property frameworks.
